@@ -6,4 +6,4 @@ this is my aidldemo
 完成了跨进程判断binder死亡问题
 完成了跨进程取消接口功能
 
-通过此demo，帮助了我更好的理解了binder机制。
+通过此demo，可以帮助大家更好的理解了binder机制。
